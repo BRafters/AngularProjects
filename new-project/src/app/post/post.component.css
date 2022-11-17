@@ -1,0 +1,13 @@
+.post {
+  display: flex;
+  height: 30%;
+  width: 20%;
+  background: var(--dark_gray);
+  border-radius: 9px;
+  border: 5px solid var(--yellow);
+}
+
+.post-img {
+  height: 150px;
+  width: 125px;
+}
